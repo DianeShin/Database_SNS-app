@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">db_project</string>
+    <string name="create_account_text">CREATE ACCOUNT</string>
+    <string name="login_text">LOGIN</string>
+    <string name="make_account">MAKE ACCOUNT</string>
+    <string name="userID_text">UserID:</string>
+    <string name="Check_userID_text">CHECK USERID</string>
+    <string name="name_text">Name:</string>
+    <string name="login_fail_text">Login failed. Please try again.</string>
+    <string name="current_UserID_text">Current UserID: </string>
+    <string name="create_account_success_text">Account successfully made. Login now, or return to main page.</string>
+    <string name="login_now_text">Login Now</string>
+    <string name="return_to_mainpage_text">Return to mainpage</string>
+    <string name="create_post_title_text">Create Post</string>
+    <string name="create_post_text">CREATE POST</string>
+    <string name="create_post_success_text">Successfully created text.</string>
+    <string name="ask_id_check_text">Please check userID first.</string>
+    <string name="logout_text">logout</string>
+    <string name="invalid_userID_text">This userID already exists. Please choose another id</string>
+    <string name="title_activity_create_post_action">createPostAction</string>
+    <string name="load_post_text">Load Post</string>
+    <string name="logged_in_as_text">Logged in as: </string>
+    <string name="refresh">REFRESH</string>
+</resources>
